@@ -10,6 +10,17 @@
 
 本题单完全开放，因此也欢迎外校的朋友根据本仓库内容进行练习，并且对我们提出改进意见。
 
+
+## 如何使用
+
+所有题单均为[洛谷](https://www.luogu.com.cn/)上公开的题目。
+
+- C语言快速上手（面向基础较为薄弱的同学）：[link](C_Beginner_Problems.md)
+- C语言程序设计：[link](C_Language_Problems.md)
+- 数据结构：[link](Data_Structure_Problems.md)
+- 算法设计与分析：[link](Algorithm_Design_Problems.md)
+  
+
 ## 更新计划
 
 1. 丰富C语言和数据结构基础题单，让每一个专题变成“从 x 道题选择 y 道”的形式，便于大家选择。
